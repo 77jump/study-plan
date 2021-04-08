@@ -32,7 +32,7 @@
 
 9、[10 个 GitHub 上超火的 CSS 技巧项目，找到写 CSS 的灵感！](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/7)
 
-10、[每个JavaScript开发人员都应了解的33个概念](https://github.com/leonardomso/33-js-concepts)
+10、[每个JavaScript开发人员都应了解的33个概念](https://github.com/leonardomso/33-js-concepts)[^重点]
 
 11、[为什么Vue和React都抛弃了面向对象写法 ？](https://www.zhihu.com/question/451424245/answer/1807613524)
 
